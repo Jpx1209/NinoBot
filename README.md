@@ -1,6 +1,6 @@
 # NinoBot 
 # discord-bot
-## Support Discord : Jpx12 
+# Support Discord : Jpx12 
 ## Project Description
 MUSIC AND GAMBLING BOT
 
